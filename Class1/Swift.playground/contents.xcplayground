@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered' executeOnSourceChanges='true'>
+    <pages>
+        <page name='Table of Contents'/>
+        <page name='Constants and Variables'/>
+        <page name='Strings'/>
+        <page name='Collections'/>
+        <page name='Optionals'/>
+        <page name='Control Flow'/>
+        <page name='Functions'/>
+        <page name='Classes'/>
+        <page name='Structs'/>
+        <page name='Enums'/>
+        <page name='Structs and Enums together'/>
+        <page name='Value and Reference Types'/>
+        <page name='Extensions'/>
+        <page name='Memory Management'/>
+    </pages>
+</playground>
