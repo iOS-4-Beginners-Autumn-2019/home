@@ -1,4 +1,4 @@
-[![iOS 4 Beginners Autumn 2019](assets/logo.png)](https://github.com/DaftMobile/ios4beginners_autumn2019)
+[![iOS 4 Beginners Autumn 2019](assets/logo.jpg)](https://github.com/DaftMobile/ios4beginners_autumn2019)
 
 ![Platforms](https://img.shields.io/badge/Platform-iOS-blue.svg?style=flat)
 ![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg?style=flat)
