@@ -23,7 +23,7 @@ class Window {
 }
 
 /*:
-## Zadanie 1
+## Zadanie 2
 This DOESN'T WORK on purpose
 */
 func moveHorizontally(_ window: Window, by x: Double) {

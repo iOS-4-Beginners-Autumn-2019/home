@@ -15,5 +15,4 @@
 10.	[Structs & Enums](Structs%20and%20Enums%20together)
 11.	[Value vs Reference Types](Value%20and%20Reference%20Types)
 12.	[Extensions](Extensions)
-13.	[Memory Management](Memory%20Management)
 */

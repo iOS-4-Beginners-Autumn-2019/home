@@ -3,7 +3,7 @@
 import Foundation
 
 /*:
-## Zadanie 2
+## Zadanie 3
 Napisz extension do typu Int takie, aby możliwe było wykonanie funkcji niżej
 */
 extension Int {

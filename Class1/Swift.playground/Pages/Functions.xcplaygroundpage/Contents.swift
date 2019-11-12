@@ -1,6 +1,8 @@
 import Foundation
 //: [Previous](@previous)
 
+fileprivate struct TaskError: Error { }
+
 //: # Functions
 
 //: ### Basic definition
@@ -66,5 +68,23 @@ repeatAction(times: 2) {
 }
 // Swift is awesome! 🎉
 // Swift is awesome! 🎉
+
+/*:
+## Zadanie 1
+
+Napisz funkcję, która liczy kwadrat liczby naturalnej.
+
+Jej wywołanie powinno wyglądać następująco:
+```
+let oneHundred = square(value: 10)
+```
+*/
+
+// TODO
+// func square ...
+//
+//guard square(value: 5) == 25 else { throw TaskError() }
+//guard square(value: 10) == 100 else { throw TaskError() }
+//
 
 //: [Next](@next)
