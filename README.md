@@ -25,6 +25,31 @@ printf "email@domain.com" | openssl sha256
 
 ## Classes
 
+### Class 1: Hello Swift
+
+We were talking about the basics of Swift programming language:
+
+- Variables and **constants** (`var` and `let` keywords)
+- `String`
+- `Array` and `Dictionary` data types (value types)
+- Optionals (`Int?`, `String?`, `if let ...` syntax, and so on)
+- Control Flow (`if`, `for` and `while` loops, `switch` statement (💪))
+- Functions – defining a function with parameters in Swift (`func` keyword), return value type, calling functions, etc.
+- Classes – defining a basic class, defining methods, class properties, initializers. We've also discussed inheritance in Swift, overriding methods and initializers.
+- Enums!
+- Structs
+- Value Types vs Reference Types
+
+To learn more, go through the [Swift](./Class1) playground.
+
+### Assignment 1:
+
+**See home assignment [here](https://classroom.github.com/a/q0jIlYaf).**
+
+>Select *Accept this Assignment* after logging in to Github. This will create a repository with your username in it. This repository will contain the assignment and is a starter project – **clone** the repository, create your solution in it, and push it back to Github – that's it! 💪 Good luck! 🍀
+
+>Remember to push your solutions before Saturday midnight 😉
+
 ## Resources
 
 - [Install Swift on Linux](https://swift.org/download/#releases) - we're using version `5.1`
