@@ -7,10 +7,6 @@
 
 ---
 
-### [Join our Slack!!!](https://join.slack.com/t/ios4beginners-atm2019/shared_invite/enQtODE1ODgyODgwNjI2LTE3MjNlYmZlNWU0ZDE3MzExNDJiMzkxMjUyY2E3MTY1ZjRlZjU2ODhiMWNkYTE3OGE5ZTExMDg4MDY5ZjYyNDY)
-
----
-
 # iOS 4 Beginners class – MiNI, Autumn 2019
 
 #### Worshop Results
