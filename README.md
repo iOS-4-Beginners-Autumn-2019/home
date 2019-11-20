@@ -53,6 +53,7 @@ To learn more, go through the [Swift](./Class1) playground.
 - [Free Swift Book](https://itunes.apple.com/us/book/the-swift-programming-language/id881256329?mt=11)
 - [iOS Documentation](https://developer.apple.com/documentation/)
 - [Apple Development Videos](https://developer.apple.com/videos/)
+- [Git collaboration](https://www.atlassian.com/git/tutorials/comparing-workflows)
 
 ## Contact
 
