@@ -97,6 +97,14 @@ In Auto Layout we use [constraints](https://developer.apple.com/library/archive/
 
 ![Anatomy of a constraint](assets/constraint.png)
 
+### Assignment 3:
+
+See home assignment **Pokemon Toggle** [here](https://classroom.github.com/g/EMdbJ8iZ).
+
+>The assignment is to be completed in two person teams. I know it's an easy one, but the following assignments are going to be more difficult, and you need to learn *git collaboration*.
+
+>Remember to push your solutions before Saturday midnight 😉
+
 ## Resources
 
 - [Install Swift on Linux](https://swift.org/download/#releases) - we're using version `5.1`
