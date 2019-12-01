@@ -78,6 +78,25 @@ See home assignment **Smile App** [here](https://classroom.github.com/g/rMx1ZR6N
 
 >Remember to push your solutions before Saturday midnight 😉
 
+### Class 3: UIKit Basics + AutoLayout
+
+Finally some UIKit and `UIView`s! We've discussed the basic `UIKit` concepts:
+
+1. View hierarchy
+2. `UIView` and its subclasses
+3. Concept of adding a `subview`, and a `superview`
+4. Coordinate system on iOS
+5. View coordinate properties:
+	- [`frame`](https://developer.apple.com/documentation/uikit/uiview/1622621-frame)
+	- [`bounds`](https://developer.apple.com/documentation/uikit/uiview/1622580-bounds)
+	- [`center`](https://developer.apple.com/documentation/uikit/uiview/1622627-center)
+
+The we talked about Auto Layout. Auto Layout is a view positioning system designed to work on multiple devices and screen sizes. Auto Layout dynamically calculates the size and position of all the views in your view hierarchy, based on constraints placed on those views.
+
+In Auto Layout we use [constraints](https://developer.apple.com/library/archive/documentation/UserExperience/Conceptual/AutolayoutPG/AnatomyofaConstraint.html#//apple_ref/doc/uid/TP40010853-CH9-SW1) to position views.
+
+![Anatomy of a constraint](assets/constraint.png)
+
 ## Resources
 
 - [Install Swift on Linux](https://swift.org/download/#releases) - we're using version `5.1`
