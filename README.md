@@ -117,6 +117,22 @@ Next, we covered the most important iOS Networking class: `URLSession`. We talke
 
 See home assignment **Pokédex** [here](https://classroom.github.com/g/xOfMolsl).
 
+### Class 5: Scroll View, Table View, Controllers of Controllers
+
+1. `UIScrollView` (i **highly** recommend all `UIScrollView` videos from WWDC [here](https://developer.apple.com/videos/))
+2. [`UITableView`](https://developer.apple.com/documentation/uikit/uitableview)
+3. The DataSource - Delegate design pattern. Set your View Controller as the data source for your table views.
+4. Subclass `UITableViewCell` to get your content on screen.
+5. Register your cell class in the Table View
+6. Remember about the cell dequeue - reuse pattern.
+7. [`UINavigationController`](https://developer.apple.com/documentation/uikit/uinavigationcontroller) is a controller of controllers. It manages the navigation stack of the app. It provides the default `NavigationBar` UI, which displays current viewcontroller's title, as well as a back arrow (if there is another viewcontroller on the stack).
+
+You typically call `pushViewController(_:animated:)` on `self.navigationController` from a parent View Controller, or use a Segue when creating your hierarchy in a Storyboard.
+
+### Assignment 5:
+
+See home assignment **Pokédex** [here](https://classroom.github.com/g/gByYVs5Q).
+
 ## Resources
 
 - [Install Swift on Linux](https://swift.org/download/#releases) - we're using version `5.1`
